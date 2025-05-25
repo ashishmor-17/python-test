@@ -30,5 +30,4 @@ jobs:
       - name: SonarQube Scan
         uses: sonarsource/sonarqube-scan-action@master
         env:
-          SONAR_TOKEN: "sqp_166d8a16684b51b16e7226b3d7e2e1efd37816a1"
-          SONAR_HOST_URL: "http://localhost:9000"
+        
