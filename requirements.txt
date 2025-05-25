@@ -18,7 +18,6 @@ djangorestframework==3.15.0
 djutil==0.2
 faker==18.11.1
 faust-streaming==0.9.4
-git+ssh://git@github.com/jodo-tech/jodo-py.git@4.10.9
 gunicorn==21.2.0
 ipython==8.11.0
 kafka-python==2.0.2
